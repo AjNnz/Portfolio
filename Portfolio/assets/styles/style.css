@@ -58,23 +58,21 @@ h2, h3 {
   background-size: contain;        /* Ensures the whole image is visible */
   background-position: center;
   background-repeat: no-repeat;
-  background-color: #f5eee6;       /* Fallback color */
+  background-color: #f5eee6;       
 }
 
 .container-text {
-
   background-color: #f5eee6;
   margin-top: 50px;
   margin-bottom: 50px;
 }
 
 .container-text p {
-
   padding: 20px;
   text-align: center;
 }
 
-/* Responsive adjustment for mobile */
+
 @media (max-width: 600px) {
   .container-img {
     height: 40vh;
