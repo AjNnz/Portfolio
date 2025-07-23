@@ -32,7 +32,7 @@
   padding: 20px;
   box-sizing: border-box;
   border-radius: 12px;
-  width: 350px;         /* Fixed width for desktop */
+  width: 350px;
   max-width: 100%;
   margin: 0;
 }
@@ -46,7 +46,7 @@
   font-size: 16px;
 }
 
-/* Responsive: stack cards on small screens */
+
 @media (max-width: 800px) {
   .cards {
     flex-direction: column;
