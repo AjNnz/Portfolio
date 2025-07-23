@@ -1,0 +1,40 @@
+.Thank-Note {
+  padding: 50px;
+  margin: 50px 0;
+  text-align: center;
+}
+
+
+
+.contact-info {
+  padding: 50px;
+  background-color: #f5eee6;
+  margin: 50px 0;
+  text-align: center;
+}
+
+
+
+.contact-info h2 {
+
+  font-size: 36px;
+  color: #d4b595;
+  margin-bottom: 20px;
+  padding-bottom: 30px;
+}
+
+.contact-info img {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+  margin: 20px 20px;
+  vertical-align: middle;
+  transition: transform 0.2s;
+  
+}
+
+
+
+.contact-info img:hover {
+  transform: scale(1.1);
+}
